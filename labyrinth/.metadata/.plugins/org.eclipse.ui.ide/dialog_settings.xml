@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="installedFeatures">
+		<item value="org.eclipse.buildship:3.1.5.v20210113-0929"/>
+		<item value="org.eclipse.cdt.autotools:10.4.0.202106130052"/>
+		<item value="org.eclipse.cdt.build.crossgcc:10.4.0.202106130052"/>
+		<item value="org.eclipse.cdt.cmake:10.4.0.202108271740"/>
+		<item value="org.eclipse.cdt.debug.gdbjtag:10.4.0.202107201646"/>
+		<item value="org.eclipse.cdt.debug.standalone:10.4.0.202106150220"/>
+		<item value="org.eclipse.cdt.debug.ui.memory:10.4.0.202106130052"/>
+		<item value="org.eclipse.cdt.docker.launcher:10.4.0.202106130052"/>
+		<item value="org.eclipse.cdt.gdb:10.4.0.202106130052"/>
+		<item value="org.eclipse.cdt.gnu.build:10.4.0.202106241829"/>
+		<item value="org.eclipse.cdt.gnu.debug:10.4.0.202107280907"/>
+		<item value="org.eclipse.cdt.gnu.dsf:10.4.0.202108092002"/>
+		<item value="org.eclipse.cdt.launch.remote:10.4.0.202106130052"/>
+		<item value="org.eclipse.cdt.launch.serial.feature:10.4.0.202106130052"/>
+		<item value="org.eclipse.cdt.meson:10.4.0.202107301748"/>
+		<item value="org.eclipse.cdt.native:10.4.0.202109080104"/>
+		<item value="org.eclipse.cdt.platform:10.4.0.202109080104"/>
+		<item value="org.eclipse.cdt.testsrunner.feature:10.4.0.202106130052"/>
+		<item value="org.eclipse.eclemma.feature:3.1.5.202109082215"/>
+		<item value="org.eclipse.egit:5.13.0.202109080827-r"/>
+		<item value="org.eclipse.emf.common:2.23.0.v20210618-0700"/>
+		<item value="org.eclipse.emf.ecore:2.25.0.v20210816-0937"/>
+		<item value="org.eclipse.epp.mpc:1.9.1.v20210204-1408"/>
+		<item value="org.eclipse.help:2.3.700.v20210906-0500"/>
+		<item value="org.eclipse.jgit.gpg.bc:5.13.0.202109080827-r"/>
+		<item value="org.eclipse.jgit.http.apache:5.13.0.202109080827-r"/>
+		<item value="org.eclipse.jgit.ssh.apache:5.13.0.202109080827-r"/>
+		<item value="org.eclipse.jgit:5.13.0.202109080827-r"/>
+		<item value="org.eclipse.launchbar.remote:10.4.0.202106130052"/>
+		<item value="org.eclipse.launchbar:10.4.0.202106130052"/>
+		<item value="org.eclipse.m2e.feature:1.18.1.20210618-2246"/>
+		<item value="org.eclipse.m2e.logback.feature:1.17.1.20210603-1006"/>
+		<item value="org.eclipse.mylyn.commons.identity:1.17.2.v20200813-0821"/>
+		<item value="org.eclipse.mylyn.commons.notifications:1.17.2.v20200813-0821"/>
+		<item value="org.eclipse.mylyn.commons.repositories:1.17.2.v20200813-0821"/>
+		<item value="org.eclipse.mylyn.commons:3.25.2.v20200813-0821"/>
+		<item value="org.eclipse.mylyn.discovery:3.25.2.v20200813-0821"/>
+		<item value="org.eclipse.mylyn.monitor:3.25.2.v20200813-0821"/>
+		<item value="org.eclipse.mylyn.wikitext.editors_feature:3.0.38.202008172112"/>
+		<item value="org.eclipse.mylyn.wikitext_feature:3.0.38.202008172112"/>
+		<item value="org.eclipse.mylyn_feature:3.25.2.v20200814-0512"/>
+		<item value="org.eclipse.oomph.p2:1.20.0.v20210808-0939"/>
+		<item value="org.eclipse.oomph.setup.core:1.21.0.v20210828-0732"/>
+		<item value="org.eclipse.oomph.setup:1.22.0.v20210828-0732"/>
+		<item value="org.eclipse.photran.xlf:9.4.1.202108061648"/>
+		<item value="org.eclipse.photran:9.4.1.202108061648"/>
+		<item value="org.eclipse.ptp.core:9.4.1.202108312239"/>
+		<item value="org.eclipse.ptp.debug.sdm:9.4.1.202108312239"/>
+		<item value="org.eclipse.ptp.etfw:9.4.1.202108312239"/>
+		<item value="org.eclipse.ptp.rdt.sync.cdt:9.4.1.202108312239"/>
+		<item value="org.eclipse.ptp.remote.terminal:9.4.1.202108312239"/>
+		<item value="org.eclipse.ptp.rm.jaxb.contrib:9.4.1.202108312239"/>
+		<item value="org.eclipse.ptp:9.4.1.202108312239"/>
+		<item value="org.eclipse.rcp:4.21.0.v20210906-0842"/>
+		<item value="org.eclipse.remote.console:3.0.2.202109011318"/>
+		<item value="org.eclipse.tm.terminal.connector.ssh.feature:10.4.0.202106130052"/>
+		<item value="org.eclipse.tm.terminal.control.feature:10.4.0.202107100131"/>
+		<item value="org.eclipse.tm.terminal.feature:10.4.0.202106130052"/>
+		<item value="org.eclipse.tm.terminal.view.feature:10.4.0.202108241639"/>
+		<item value="org.eclipse.userstorage:1.2.0.v20210517-0327"/>
+		<item value="org.eclipse.wst.xml_ui.feature:3.23.0.v202107101937"/>
+	</list>
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\Пуська\Desktop\Долги 3 курс\С++\Аня\labyrinth"/>
+			<item value="C:\Users\Пуська\Desktop\Долги 3 курс\С++\Аня\labyrinth_OpenGL"/>
+		</list>
+	</section>
+</section>

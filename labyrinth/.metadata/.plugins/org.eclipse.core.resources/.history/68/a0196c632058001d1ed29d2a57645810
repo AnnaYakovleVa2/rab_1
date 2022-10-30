@@ -1,0 +1,14 @@
+/*
+ * texture.h
+ *
+ *  Created on: 30 окт. 2022 г.
+ *      Author: ѕуська
+ */
+
+#ifndef TEXTURE_H_
+#define TEXTURE_H_
+
+class texture {
+};
+
+#endif /* TEXTURE_H_ */

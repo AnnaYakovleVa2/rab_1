@@ -1,0 +1,9 @@
+12:39:52 **** Incremental Build of configuration Debug for project labyrinth ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Window.o "..\\Window.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o Player.o "..\\Player.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.cc" 
+g++ -o labyrinth.exe Map.o Player.o Window.o main.o texture.o -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -lopengl32 -lglu32 
+
+12:40:00 Build Finished. 0 errors, 0 warnings. (took 7s.993ms)
+
